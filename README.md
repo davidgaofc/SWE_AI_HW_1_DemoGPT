@@ -17,7 +17,7 @@ If there is an error in uploading the file, users can alternatively copy and pas
 ## How to Use
 1. Clone this repository: `git clone [repository link]`.
 2. Navigate to the project directory: `cd [project directory name]`.
-3. Install necessary dependencies: `pip install -r requirements.txt`.
+3. Install necessary dependencies
 4. Run the project: `python main.py` (This assumes you have Python installed).
 5. Follow the on-screen prompts to upload your research paper in PDF format.
 6. Wait for the tool to process and analyze the content.
