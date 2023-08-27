@@ -41,9 +41,6 @@ This integration allows for a more intuitive and context-aware extraction of fut
 ## Feedback and Issues
 For any feedback or if you encounter any issues, please raise them in the issue tracker of this repository.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 - Thanks to OpenAI and the GPT-4 model.
 - Special gratitude to my class instructor and peers for their invaluable feedback.
