@@ -15,13 +15,28 @@ If there is an error in uploading the file, users can alternatively copy and pas
 **Note**: This project is a homework assignment for a class and is only intended as a demo.
 
 ## How to Use
-1. Upload your research paper in PDF format.
-2. Wait for the tool to process and analyze the content.
-3. Review the extracted areas of future research and related directions.
-4. In case of any upload errors, copy and paste the text of the research paper into the provided input box.
+1. Clone this repository: `git clone [repository link]`.
+2. Navigate to the project directory: `cd [project directory name]`.
+3. Install necessary dependencies: `pip install -r requirements.txt`.
+4. Run the project: `python main.py` (This assumes you have Python installed).
+5. Follow the on-screen prompts to upload your research paper in PDF format.
+6. Wait for the tool to process and analyze the content.
+7. Review the extracted areas of future research and related directions.
+8. In case of any upload errors, copy and paste the text of the research paper into the provided input box.
+
+## Behind the Scenes with DemoGPT
+DemoGPT powers the core functionality of this tool. It's a model trained by OpenAI based on the GPT-4 architecture. For our project, it's responsible for:
+
+- Reading and understanding the content of the research paper.
+- Extracting relevant sections that hint at future research areas.
+- Generating suggestions and linking to related research papers based on the content of the analyzed paper.
+
+This integration allows for a more intuitive and context-aware extraction of future research directions, providing value to researchers and enthusiasts alike.
 
 ## Installation and Setup
-(Add installation and setup instructions here)
+- Ensure you have Python (version 3.x) installed on your machine.
+- It's recommended to create a virtual environment for this project to manage dependencies.
+- Follow the steps in the "How to Use" section for a smooth setup and execution.
 
 ## Feedback and Issues
 For any feedback or if you encounter any issues, please raise them in the issue tracker of this repository.
